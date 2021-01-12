@@ -1,0 +1,14 @@
+{
+  "name": "@types/remark-react",
+  "version": "0.0.1",
+  "description": "TypeScript definitions for remark-react",
+  "main": "",
+  "scripts": {
+    "test": ""
+  },
+  "dependencies": {
+    "unified": "^xxx",
+    "@types/unified": "^xxx"
+  },
+  "license": "MIT"
+}
